@@ -1,0 +1,1 @@
+Loyal : Repeated customer  regesed for the Loyality points.
